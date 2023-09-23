@@ -1,20 +1,24 @@
-<h2 align="center">Hi 👋 , I'm Abdul Sami Sultan</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulSami-Sultan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
-###
+<h2 align="left">👋 Hello Programmers! I'm Abdul Sami Sultan</h1>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdulSami-Sultan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+This is the place where I opensource stuff and break things 🤣
 
-###
+- 🔭 I’m currently working on something really cool 😉
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on more open source projects.
+- 💬 Ask me anything related to <b>iOS application Development, iOS Custom Operating System Development, iOS Development, Swift.</b>
+- ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
-<div align="center">
+### 🏆 Github Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=AbdulSami-Sultan&show_icons=true&hide_border=true&theme=highcontrast" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSami-Sultan&theme=highcontrast" width="48%" >
+
+
+### Languages and Tools:
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
@@ -26,9 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
-
-<div align="center">
+### Connect with me:
+<div align="left">
   <a href="https://www.linkedin.com/in/abdul-sami-sultan-452a9a1ba/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -42,3 +45,4 @@
 <img src="https://raw.githubusercontent.com/AbdulSami-Sultan/AbdulSami-Sultan/output/snake.svg" alt="Snake animation" />
 
 ###
+
