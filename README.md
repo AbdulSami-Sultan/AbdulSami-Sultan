@@ -11,12 +11,6 @@ This is the place where I opensource stuff and break things 🤣
 - 💬 Ask me anything related to <b>iOS application Development, iOS Custom Operating System Development, iOS Development, Swift.</b>
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
-### 🏆 Github Stats
-
-<img  src="https://github-readme-stats.vercel.app/api?username=AbdulSami-Sultan&show_icons=true&hide_border=true&theme=highcontrast" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSami-Sultan&theme=highcontrast" width="48%" >
-
-
 ### Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
@@ -39,10 +33,7 @@ This is the place where I opensource stuff and break things 🤣
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+### 🏆 Github Stats
 
-###
-
-<img src="https://raw.githubusercontent.com/AbdulSami-Sultan/AbdulSami-Sultan/output/snake.svg" alt="Snake animation" />
-
-###
-
+<img  src="https://github-readme-stats.vercel.app/api?username=AbdulSami-Sultan&show_icons=true&hide_border=true&theme=highcontrast" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSami-Sultan&theme=highcontrast" width="48%" >
