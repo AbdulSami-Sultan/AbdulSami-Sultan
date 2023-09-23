@@ -33,7 +33,7 @@ This is the place where I opensource stuff and break things 🤣
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-### 🏆 Github Stats
+### Github Stats:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=AbdulSami-Sultan&show_icons=true&hide_border=true&theme=highcontrast" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSami-Sultan&theme=highcontrast" width="48%" >
