@@ -1,9 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=What's%20Up?&animation=twinkling&fontSize=40)
 
+## Introduction
 
-<h2 align="left">👋 Hello Programmers! I'm Abdul Sami Sultan</h1>
+<h3 align="center">Hey there, I'm <a href="https://github.com/AbdulSami-Sultan">Abdul Sami Sultan</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<p align="center"><a href="https://github.com/AbdulSami-Sultan?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AbdulSami-Sultan?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/AbdulSami-Sultan"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AbdulSami-Sultan?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a></p>
+ 
 
 This is the place where I opensource stuff and break things 🤣
+
+## What I'm Doing
 
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
@@ -11,29 +19,28 @@ This is the place where I opensource stuff and break things 🤣
 - 💬 Ask me anything related to <b>iOS application Development, iOS Custom Operating System Development, iOS Development, Swift.</b>
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
-### Languages and Tools:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
 
-### Connect with me:
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdul-sami-sultan-452a9a1ba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="abdulsami923@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-### Github Stats:
 
-<img  src="https://github-readme-stats.vercel.app/api?username=AbdulSami-Sultan&show_icons=true&hide_border=true&theme=highcontrast" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSami-Sultan&theme=highcontrast" width="48%" >
+## Languages and Tools
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=swift,vscode,git,postman,github,firebase"> </a> </p>
+
+## Connect with me:
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/abdul-sami-sultan-452a9a1ba/"><img src="https://skillicons.dev/icons?i=linkedin"> </a> 
+  <a href="abdulsami923@gmail.com"><img src="https://skillicons.dev/icons?i=gmail">
+</p>
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=AbdulSami-Sultan&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSami-Sultan&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
