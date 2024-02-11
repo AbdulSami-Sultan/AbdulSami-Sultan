@@ -23,7 +23,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=swift,vscode,git,postman,github,firebase"> </a> </p>
+<p align="left"> <a href="https://github.com/AbdulSami-Sultan"><img src="https://skillicons.dev/icons?i=swift,vscode,git,postman,github,firebase"> </a> </p>
 
 ## Connect with me:
 <p align="left"> 
