@@ -38,14 +38,14 @@
 ## Activity On GitHub
 
 <p align="left">
-  <a href="https://github.com/Thinkright20">      
+  <a href="https://github.com/AbdulSami-Sultan">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSami-Sultan&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
 ## Top Respositorys
   <p align="left">
-      <a href="https://github.com/AbdulSami-Sultan/Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulSami-Sultan&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+      <a href="https://github.com/AbdulSami-Sultan/AbdulSami-Sultan.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulSami-Sultan&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/AbdulSami-Sultan/Social-Media-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulSami-Sultan&repo=Social-Media-App&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/AbdulSami-Sultan/MapKit-GetDirection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulSami-Sultan&repo=MapKit-GetDirection&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
